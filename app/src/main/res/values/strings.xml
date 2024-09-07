@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Teacher Management Portal</string>
+    <string name="appIcon_Desc">Application Icon</string>
+    <string name="userEmailHint">yourname@domain.com</string>
+    <string name="loginPasswordHint">********</string>
+    <string name="loginForgotPassword">Forgot Password ?</string>
+    <string name="loginButton">Login</string>
+    <string name="loginScreenRegistrationText">New Here? Register</string>
 </resources>
